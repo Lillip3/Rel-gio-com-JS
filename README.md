@@ -36,12 +36,12 @@ The following technologies:
 ## 🏷Labels
 
 ![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
-![See the finished project](https://lillip3.github.io/Rel-gio-com-JS/)
+
 
 ## 🔗Links
 
 You can view the project layout through [THIS LINK](https://www.figma.com/community/file/1406822993441339060/clock) you need to have an account on [Figma](https://www.figma.com/) to access it.
-
+![See the finished project](https://lillip3.github.io/Rel-gio-com-JS/)
 
 ## 📧Contact
 
