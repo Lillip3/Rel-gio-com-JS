@@ -41,7 +41,8 @@ The following technologies:
 ## 🔗Links
 
 You can view the project layout through [THIS LINK](https://www.figma.com/community/file/1406822993441339060/clock) you need to have an account on [Figma](https://www.figma.com/) to access it.
-![See the finished project](https://lillip3.github.io/Rel-gio-com-JS/)
+<br>
+[See the finished project](https://lillip3.github.io/Rel-gio-com-JS/)
 
 ## 📧Contact
 
